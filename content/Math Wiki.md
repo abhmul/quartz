@@ -4,7 +4,6 @@ tags:
 title: Math Wiki
 ---
 
-%%   %%
 
 Welcome to my **math-wiki**! To get started check out 
 - [[A Set is Closed iff it is its own Closure]].

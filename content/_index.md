@@ -23,7 +23,9 @@ I'm a first-year PhD student specializing in machine learning and information th
 ## Where  can you find me?
 
 **My Office**: SEO 1211
+
 **My Academic Email** (for academic things): mulgund2 (at) uic (dot) edu
+
 **My Personal Email** (for other things): abhmul (at) gmail (dot) com
 
 **Other (professional) things on the internet**
@@ -31,15 +33,15 @@ I'm a first-year PhD student specializing in machine learning and information th
 - [LinkedIn](https://www.linkedin.com/in/abhijeetmulgund/)
 
 [[TODO]] for website
-- [ ] Write program to automatically add gitignore tagged files to gitignore
-	- [ ] test
-- [ ] Mark as gitignore
-	- [ ] Daily notes
-	- [ ] Research Notes
-	- [ ] Journal Entries
+- [x] Write program to automatically add gitignore tagged files to gitignore
+	- [x] test
+- [x] Mark as gitignore
+	- [x] Daily notes
+	- [x] Research Notes
+	- [x] Journal Entries
 	- [ ] Private Conventions (create)
-	- [ ] Masters Thesis work
-	- [ ] Course pages
-	- [ ] Other people 
+	- [x] Masters Thesis work
+	- [x] Course pages
+	- [x] Other people 
 - [ ] Fill in missing content on other pages (see TODOs)
 

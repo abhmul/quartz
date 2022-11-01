@@ -1,7 +1,8 @@
 ---
 tags:
 - GraphExclude
-title: Evoluation and its relationship with Agents
+- gitignore
+title: Evolution and its relationship with Agents
 ---
 
  
