@@ -1,0 +1,5 @@
+---
+title: "Concave Function"
+---
+
+# Definition

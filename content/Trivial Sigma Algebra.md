@@ -1,0 +1,4 @@
+---
+title: "Trivial Sigma Algebra"
+---
+

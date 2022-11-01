@@ -1,27 +1,45 @@
 ---
-title: 🪴 Quartz 3.
-enableToc: false
+
+title: "Home Page"
+tags:
+  - GraphExclude
+
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+# Hi, I'm Abhijeet, a mathematics student at UIC
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+![](attachments/website-picture.1.cropped.jpg)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+I'm a first-year PhD student specializing in machine learning and information theory. Before joining UIC, I used to work as a software engineer, and before that I studied computer science and mathematics at Rice University.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## Navigation...
+- [[_index|Home Page]]
+- [[About Me]]
+- [[Research|Research]]
+- [[Service]]
+- [[Math Wiki]]
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Where  can you find me?
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+**My Office**: SEO 1211
+**My Academic Email** (for academic things): mulgund2 (at) uic (dot) edu
+**My Personal Email** (for other things): abhmul (at) gmail (dot) com
+
+**Other (professional) things on the internet**
+- [Github](https://github.com/abhmul)
+- [LinkedIn](https://www.linkedin.com/in/abhijeetmulgund/)
+
+[[TODO]] for website
+- [ ] Write program to automatically add gitignore tagged files to gitignore
+	- [ ] test
+- [ ] Mark as gitignore
+	- [ ] Daily notes
+	- [ ] Research Notes
+	- [ ] Journal Entries
+	- [ ] Private Conventions (create)
+	- [ ] Masters Thesis work
+	- [ ] Course pages
+	- [ ] Other people 
+- [ ] Fill in missing content on other pages (see TODOs)
 

@@ -1,0 +1,1 @@
+[[TODO]] This can be phrased in terms of [[Radon-Nikodym Derivative]]s. [[Discrete Entropy]] is wrt to [[Counting Measure]] and [[Differential Entropy]] is wrt [[Lebesgue Measure]].

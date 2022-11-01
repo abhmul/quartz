@@ -1,0 +1,1 @@
+[[TODO]] - Just apply [[Discrete-Time Adapted Process can be decomposed into Martingale and Predictable Process]] and show the [[Predictable Sequence]] is [[Non-Decreasing Function]]. See [[Resnick - A Probability Path]] Sect 10.6 Thm 10.6.1 pg 360.
