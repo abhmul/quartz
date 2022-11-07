@@ -21,4 +21,4 @@ Existence follows directly from the [[Axiom of Union]].
 
 # Encounters
 - [[Enderton - Elements of Set Theory]]
-- [Lian - Fundamentals of ZFC](https://drive.google.com/file/d/1HqqHQIMNTcFwY3icnuvhq57-52ZNQhIi/view?usp=sharing)
+- [[Lian - Fundamentals of ZFC]]

@@ -1,6 +1,8 @@
 ---
 
 title: "TurboAE"
+tags:
+- gitignore
 
 ---
 [[TurboAE]] is a [[Deep Learning]] [[Machine Learning Model]] implemented and published by [[Yihan Jiang]]. The model attempts to solve the [[Channel Coding]] problem by searching for a [[Neural Network]] [[Coding Encoder]] and [[Coding Decoder]] that mimic the architecture of a [[Turbo Code]].

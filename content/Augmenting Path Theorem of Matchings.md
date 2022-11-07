@@ -10,4 +10,4 @@ Suppose $G = (V, E)$ is an [[Undirected Graph]] and $M$ is a [[Matching]] on $G$
 
 # Sources
 - [[Cook - Combinatorial Optimization]] - Ch 5, Section 5.1, page 129
-- [Berge (1957)](https://drive.google.com/file/d/1OWKvZt7TBlg_jgA_LesuBMRLJubmYYvN/view?usp=sharing) - original source
+- [[Berge - Two Theorems in Graph Theory(1957)]] - original source

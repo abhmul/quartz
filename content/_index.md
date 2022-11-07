@@ -43,5 +43,6 @@ I'm a first-year PhD student specializing in machine learning and information th
 	- [x] Masters Thesis work
 	- [x] Course pages
 	- [x] Other people 
+	- [ ] Remove links to personal books
 - [ ] Fill in missing content on other pages (see TODOs)
 
