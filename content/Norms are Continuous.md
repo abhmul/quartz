@@ -1,6 +1,6 @@
 ---
 
-title: "Norms are Continous"
+title: "Norms are Continuous"
 
 ---
 # Statement

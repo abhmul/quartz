@@ -17,6 +17,7 @@ min:\min;
 setm:\setminus;
 set:\{#cursor\}#tab;
 seti:\{#cursor\}_{#tab}#tab;
+setn:\{#cursor\}_{#tab}^{#tab}#tab;
 netnew:(x_{\alpha})_{\alpha \in I} \subset X;
 net:(x_{\alpha})_{\alpha \in I};
 nets:\{x_{\alpha}\}_{\alpha \in I};

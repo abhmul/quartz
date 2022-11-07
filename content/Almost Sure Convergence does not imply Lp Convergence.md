@@ -11,7 +11,7 @@ We prove by constructing a [[Counterexample]]. Suppose $(X_{n})$ is a [[Sequence
 $$X_{n}(x) = \begin{cases} n^{2} & x \in [0, \frac{1}{n}) \\ 0 & x \in [\frac{1}{n}, 1] \end{cases}$$
 Then for $x \in (0, 1]$, if $n \geq \lceil{\frac{1}{x}}\rceil$, we have that $X_{n}(x) = 0$. Thus on $(0, 1]$, $X_{n} \to 0$ [[Pointwise Convergence|pointwise]]. Since $(0, 1]^{C} = \{0\}$ is a [[Null Set]], we have that $X_{n} \to 0$ [[Almost Sure Convergence|almost surely]].
 
-Now suppose $X_{n} \overset{L^{p}}{\to} X$ for some $p \geq 1$. Recall that [[Lp Spaces are Banach]] so $X \in L^{p}$. Then, because [[Norms are Continous]]:
+Now suppose $X_{n} \overset{L^{p}}{\to} X$ for some $p \geq 1$. Recall that [[Lp Spaces are Banach]] so $X \in L^{p}$. Then, because [[Norms are Continuous]]:
 
 $$\mathbb{E}(|X_{n}|^{p})^{\frac{1}{p}} \to \mathbb{E}(|X|^{p})^{\frac{1}{p}}$$
 and therefore

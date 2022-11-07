@@ -11,7 +11,8 @@ $$\text{cl}S := \bigcap\limits \{K \subset X : K \supset S, K \text{ is closed i
 1. $\text{cl} S$ is [[Closed]] in $X$ since an [[Intersection of Closed Sets is Closed]]
 2. $\text{cl}S = \bar{S} := \bigcup\limits \{x \in X : x \text{ is a limit point of } S\}$. That is, [[Closure of a Set is all its Limit Points]].
 
-2. $\text{cl}S = X \setminus \text{int} S^{C}$
+3. $\text{cl}S = X \setminus \text{int} S^{C}$
+4. [[Closure is Monotonic]]
 
 ### Proof
 [[TODO]]

@@ -12,7 +12,7 @@ $$F^{\leftarrow}(x) = \inf\{s \in \mathbb{R} : F(s) \geq x\}$$
 
 	**Proof**: Recall that [[A Set is Closed in a Metric Space iff it contains all its Sequential Limits]]. Let $(s_{n}) \subset A$ be a [[Sequence]]that [[Sequence Convergence|converges]] to $t \in \mathbb{R}$.  By definition of $A$
 	$$F(s_{n}) \geq x$$
-	Recall that [[Every Sequence on the Reals contains a Monotone Subsequence]]. Let this [[Subsequence]] be $(s_{n_{k}})$. [[Every Subsequence of a Convergent Sequence converges to the same Limit]], so $s_{n_{k}} \to t$. Now consider the following two cases:
+	Recall that [[Every Sequence on the Reals has a Monotone Subsequence]]. Let this [[Subsequence]] be $(s_{n_{k}})$. [[Every Subsequence of a Convergent Sequence converges to the same Limit]], so $s_{n_{k}} \to t$. Now consider the following two cases:
 	1. $(s_{n_{k}})$ is [[Non-Decreasing Function]]: Then, because [[Monotone Sequences converge to their Extremum]], we know $s_{n_{k}} \to \sup\{s_{n_{k}}\} = t$. Thus $t \geq s_{n_{1}} \in A$ (by definition of [[Supremum]]). Since $F$ is [[Non-Decreasing Function]], we have that $$F(t) \geq F(s_{n_{1}}) \geq x$$ and $t \in A$.
 	2. $(s_{n_{k}})$ is [[Non-Increasing Function]]: Then we know $s_{n_{k}} \to \inf\{s_{n_{k}}\} = t$. Since $F$ is [[Right-Continuous]] and $(s_{n_{k}}) \subset [t, \infty)$, we know that $F(s_{n_{k}}) \to F(t)$. Since $F(s_{n_{k}}) \geq x$ $\forall k \in \mathbb{N}$, then by the [[Order Limit Theorem]]$$F(t) \geq x$$ and thus $t \in A$.
 	
